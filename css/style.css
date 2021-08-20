@@ -3,3 +3,9 @@ h1{
     color: red;
     background-color: wheat;
 }
+
+p{
+    text-align: justify;
+    color: white;
+    background-color: tomato;
+}
